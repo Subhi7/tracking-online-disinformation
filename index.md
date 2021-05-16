@@ -35,3 +35,8 @@ To summarize, here are some of the useful features that our product will have:
 2. In-depth visualizations like that network graphs along with several other plots that could help track the spread of a topic or news on social media
 3. Generating reliable predictions using Machine Learning that would be used to create the above visualizations mentioned above
 4. Ability for the users to download this information in raw format in case they need it
+
+###Who we are?
+| [![VideoBlocks](/images/architecture.png)](http://videoblocks.com)  | [![AudioBlocks](/images/architecture.png)](http://audioblocks.com) | [![GraphicStock](/images/architecture.png)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
